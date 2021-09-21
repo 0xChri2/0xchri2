@@ -1,4 +1,7 @@
 ### Hi there 👋
+                                                           <h1>Hey👋 I am Chris (ImChri2)</h1>
+
+                                          I am doing a lot of Different IT stuff and also some programming. 
 
 <!--
 **ImChri2/imchri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
