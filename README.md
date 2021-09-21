@@ -6,7 +6,7 @@ Hi there I am Chris (ImChri2) 👋
   <img src="Unbenannt.png"/>
   </p>
   <p align="center">                                                            
-    I am doing a lot of Different IT stuff and also some programming.
+    I am doing a lot of different IT stuff and also some programming.
   </p>
   <p align="center">
    I´m currently working on some Cyber Securtiy, Web Development, some Python and Network configuration. 
