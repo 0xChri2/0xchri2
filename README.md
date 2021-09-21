@@ -1,6 +1,7 @@
 <html>
-
+<p align="center">
 ### Hi there I am Chris (ImChri2) 👋
+</p>
   <p align="center">
   <img src="Unbenannt.png"/>
   </p>
