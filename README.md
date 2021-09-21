@@ -14,6 +14,9 @@ Hi there I am Chris (ImChri2) 👋
   <p align="center">
    ❤️ I love to lern new things!
   </p>
+  <p align="center">
+    <a href="https://www.chris-industries.de" alt="Chris-Industries.de">My Website</a> <a href="https://discord.gg/83zVQce" alt"Discord">Discord Server</a>
+  </p>
 </html>  
 <!--
 **ImChri2/imchri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
