@@ -1,7 +1,7 @@
 ### Hi there I am Chris (ImChri2) 👋
 <html>
   <center>
-  <img src="../Unbenannt.png"/>
+  <img src="Unbenannt.png"/>
    </center>
 </html>                                                               
 I am doing a lot of Different IT stuff and also some programming. 
