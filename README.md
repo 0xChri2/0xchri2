@@ -1,9 +1,9 @@
 ### Hi there I am Chris (ImChri2) 👋
                                                                
 I am doing a lot of Different IT stuff and also some programming. 
-I´m currently working on Some Cyber Securtiy, Web Development, some Python and Network configuration. 
+I´m currently working on some Cyber Securtiy, Web Development, some Python and Network configuration. 
 
-❤️ I Love to lern new things!
+❤️ I love to lern new things!
 
 <!--
 **ImChri2/imchri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
