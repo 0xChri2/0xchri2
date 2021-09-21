@@ -15,7 +15,7 @@ Hi there I am Chris (ImChri2) 👋
    ❤️ I love to lern new things!
   </p>
   <p align="center">
-    <a href="https://www.chris-industries.de" alt="Chris-Industries.de">My Website |</a> <a href="https://discord.gg/83zVQce" alt"Discord"> Discord Server</a>
+    <a href="https://www.chris-industries.de" alt="Chris-Industries.de">My Website </a> | <a href="https://discord.gg/83zVQce" alt"Discord"> Discord Server</a>
   </p>
 </html>  
 <!--
