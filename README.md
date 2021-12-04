@@ -3,7 +3,7 @@
 Hi there I am Chris (ImChri2) 👋
     </h1>
       <p align="center">
-      <img src="Unbenannt.png"/>
+      <img src="https://www.chris-industries.de/wp-content/uploads/2021/12/chrisindustries.png"/>
       </p>
       <p align="center">                                                            
         I am doing a lot of different IT stuff and also some programming.
