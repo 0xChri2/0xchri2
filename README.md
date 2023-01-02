@@ -9,7 +9,7 @@ Hi there I am Chris (ImChri2) 👋
         I am doing a lot of different IT stuff and also some programming.
       </p>
       <p align="center">
-       I´m currently working on some Cyber Security, Web Development, some Python and Network configuration. 
+       I´m currently working on some Cyber Security, Developer and Network configuration. 
       </p>
       <p align="center">
        ❤️ I love to learn new things!
