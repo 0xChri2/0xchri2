@@ -1,6 +1,6 @@
 <html>
 <h1 align="center">
-Hi there I am Chris (ImChri2) 👋
+Hi there I am Chris 👋
     </h1>
       <p align="center">
       <img src="https://www.chris-industries.de/wp-content/uploads/2021/12/chrisindustries.png"/>
