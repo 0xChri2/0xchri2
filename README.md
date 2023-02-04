@@ -9,7 +9,7 @@ Hi there I am Chris 👋
         I am doing a lot of different IT stuff and also some programming.
       </p>
       <p align="center">
-       I´m currently working on some Cyber Security, Development and Network configuration. 
+       I´m currently working on some Cyber Security and Development. 
       </p>
       <p align="center">
        ❤️ I love to learn new things!
