@@ -16,5 +16,7 @@ Hi there I am Chris 👋
       </p>
       <p align="center">
         <a href="https://www.chris-industries.de" alt="Chris-Industries.de">My Website </a> | <a href="https://discord.gg/83zVQce" alt"Discord"> Discord Server</a> | <a    href="https://www.twitch.tv/imchri2" alt="Twitch"> Twitch</a>
+          <br />
+          ![Leetcode Stats](https://leetcard.jacoblin.cool/imchri2?theme=dark&font=Fira%20Code)
       </p>
 </html>  
